@@ -1,7 +1,8 @@
 -a 👋 Hi, I’m @Heizah...
-- 👀 I’m interested in  object-oriented programming
+- 👀 My english is not very good, but study ingles in Duolingo jeje 
 - 🌱 I’m currently learning Godot Engine
 - 📫 How to reach me, hrbweibezahn@gmail.com
+- - poco a poco se llega lejos!
 
 <!---
 Heizahn/Heizahn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
