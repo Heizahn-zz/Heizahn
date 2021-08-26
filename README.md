@@ -1,8 +1,7 @@
--a 👋 Hi, I’m @Heizah...
-- 👀 My english is not very good, but study ingles in Duolingo jeje 
-- 🌱 I’m currently learning Godot Engine
-- 📫 How to reach me, hrbweibezahn@gmail.com
-- - poco a poco se llega lejos!
+- 👋 Hi, I’m @Heizah...
+- 👀 My english is not very good, but study ingles in Duolingo jaja 
+- 🌱 Me estoy educando en el area de desarrollo web.
+- 📫 Puedes buscarme en Linked In como: Humberto Bracho Weibezahn
 
 <!---
 Heizahn/Heizahn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
